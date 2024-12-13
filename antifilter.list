@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,devops.com
 DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,dildo.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
@@ -95,6 +96,9 @@ DOMAIN-SUFFIX,discordapp.io
 DOMAIN-SUFFIX,discordapp.org
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,dist.torproject.org
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,docker.elastic.co
 DOMAIN-SUFFIX,docs.redis.com
 DOMAIN-SUFFIX,documentation.meraki.com
@@ -160,6 +164,7 @@ DOMAIN-SUFFIX,instagram.fkun2-1.fna.fbcdn.net
 DOMAIN-SUFFIX,instagram.frix7-1.fna.fbcdn.net
 DOMAIN-SUFFIX,instagram.fvno2-1.fna.fbcdn.net
 DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,island-of-pleasure.site
 DOMAIN-SUFFIX,istories.media
@@ -241,6 +246,7 @@ DOMAIN-SUFFIX,pb.wtf
 DOMAIN-SUFFIX,pbs.twimg.com
 DOMAIN-SUFFIX,pcbway.com
 DOMAIN-SUFFIX,pcbway.ru
+DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,php.su
 DOMAIN-SUFFIX,piccy.info
 DOMAIN-SUFFIX,pixiv.net
@@ -248,6 +254,8 @@ DOMAIN-SUFFIX,plab.site
 DOMAIN-SUFFIX,platform.twitter.com
 DOMAIN-SUFFIX,plugins.jetbrains.com
 DOMAIN-SUFFIX,polit.ru
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,rt.pornhub.com
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,portal.bgpmon.net
 DOMAIN-SUFFIX,proekt.media
@@ -257,6 +265,7 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,radarr.servarr.com
 DOMAIN-SUFFIX,radiosvoboda.org
 DOMAIN-SUFFIX,raw-data.gitlab.io
+DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redis.com
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redtube.com
@@ -311,6 +320,7 @@ DOMAIN-SUFFIX,stulchik.net
 DOMAIN-SUFFIX,support.cambiumnetworks.com
 DOMAIN-SUFFIX,support.huawei.com
 DOMAIN-SUFFIX,support.ruckuswireless.com
+DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,svoboda.org
 DOMAIN-SUFFIX,svtv.org
 DOMAIN-SUFFIX,swagger.io
