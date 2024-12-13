@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdn.id.supercell.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
+DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,certifytheweb.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -76,6 +78,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cloud.mongodb.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,colta.ru
+DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,community.cisco.com
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,crunchyroll.com
@@ -109,6 +112,7 @@ DOMAIN-SUFFIX,download.wetransfer.com
 DOMAIN-SUFFIX,doxajournal.ru
 DOMAIN-SUFFIX,dual-a-0001.a-msedge.net
 DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,e1v-h.phncdn.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,edgeservices.bing.com
@@ -145,6 +149,7 @@ DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,gordonua.com
 DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,gulagu.net
 DOMAIN-SUFFIX,habr.com
@@ -156,6 +161,7 @@ DOMAIN-SUFFIX,hyperhost.ua
 DOMAIN-SUFFIX,ichef.bbci.co.uk
 DOMAIN-SUFFIX,id.cisco.com
 DOMAIN-SUFFIX,iichan.hk
+DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,images.discordapp.net
 DOMAIN-SUFFIX,instagram.com
