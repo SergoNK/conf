@@ -2090,4 +2090,10 @@ DOMAIN-SUFFIX,sb.whatsapp.biz
 DOMAIN-SUFFIX,www.packages.whatsapp.biz
 DOMAIN-SUFFIX,docker.whatsapp.biz
 DOMAIN-SUFFIX,www.whatsapp.biz
+DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,messaging.webhook.whatsapp.biz
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,whatsapp
