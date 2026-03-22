@@ -1,0 +1,64 @@
+#!name=Block MAX
+#!desc=Блокировка MAX
+
+[Rule]
+
+Блокировка основных серверов MAX
+DOMAIN-SUFFIX,max-messenger.ru,REJECT
+DOMAIN-SUFFIX,web.max.ru,REJECT
+DOMAIN-SUFFIX,api.oneme.ru,REJECT
+DOMAIN-SUFFIX,calls.okcdn.ru,REJECT
+DOMAIN-SUFFIX,max.ru,REJECT
+DOMAIN-SUFFIX,i.oneme.ru,REJECT
+DOMAIN-SUFFIX,calls.okcdn.ru,REJECT
+DOMAIN-SUFFIX,st.max.ru,REJECT
+DOMAIN-SUFFIX,fd.oneme.ru,REJECT
+DOMAIN-SUFFIX,iu.oneme.ru,REJECT
+DOMAIN-SUFFIX,download.max.ru,REJECT
+DOMAIN-SUFFIX,help.max.ru,REJECT
+DOMAIN-SUFFIX,ip.mail.ru,REJECT
+DOMAIN-SUFFIX,privacy-cs.mail.ru,REJECT
+DOMAIN-SUFFIX,top-fwz1.mail.ru,REJECT
+DOMAIN-SUFFIX,trk.mail.ru,REJECT
+DOMAIN-SUFFIX,voskhod.ru,REJECT
+DOMAIN-SUFFIX,ns1.ok.ru,REJECT
+DOMAIN-SUFFIX,ns2.ok.ru,REJECT
+DOMAIN-SUFFIX,ns3.ok.ru,REJECT
+DOMAIN-SUFFIX,oneme.ru,REJECT
+DOMAIN-SUFFIX,api-gost.oneme.ru,REJECT
+DOMAIN-SUFFIX,ws-api.oneme.ru,REJECT
+DOMAIN-SUFFIX,fgost.oneme.ru,REJECT
+DOMAIN-SUFFIX,gov.ru,REJECT
+DOMAIN-SUFFIX,mycdn.me,REJECT
+DOMAIN-SUFFIX,okcdn.ru,REJECT
+DOMAIN-SUFFIX,vk-analytics.ru,REJECT
+DOMAIN-SUFFIX,tracker-api.vk-analytics.ru,REJECT
+DOMAIN-SUFFIX,nuc-cdp.digital.gov.ru,REJECT
+DOMAIN-SUFFIX,nuc-cdp.voskhod.ru,REJECT
+DOMAIN-SUFFIX,ipv4-internet.yandex.net,REJECT
+DOMAIN-SUFFIX,ipv6-internet.yandex.net,REJECT
+DOMAIN-SUFFIX,oneme.ru,REJECT
+
+Блокировка сервисов определения IP (используются MAX)
+DOMAIN-SUFFIX,ipify.org,REJECT
+DOMAIN-SUFFIX,checkip.amazonaws.com,REJECT
+DOMAIN-SUFFIX,ifconfig.me,REJECT
+DOMAIN-SUFFIX,ip.mail.ru,REJECT
+DOMAIN-SUFFIX,2ip.ru,REJECT
+DOMAIN-SUFFIX,ip-api.com,REJECT
+DOMAIN-SUFFIX,ipinfo.io,REJECT
+DOMAIN-SUFFIX,myip.ms,REJECT
+DOMAIN-SUFFIX,speedtest.net,REJECT
+DOMAIN-SUFFIX,speedtest.ru,REJECT
+
+Блокировка доменов-маркеров, которые MAX проверяет (не мешают работе сервисов)
+DOMAIN-SUFFIX,main.telegram.org,REJECT
+DOMAIN-SUFFIX,mmg.whatsapp.net,REJECT
+DOMAIN-SUFFIX,gstatic.com,REJECT
+DOMAIN-SUFFIX,gosuslugi.ru,REJECT
+
+Дополнительные домены, связанные с MAX (TamTam, OK)
+DOMAIN-SUFFIX,ok.ru,REJECT
+DOMAIN-SUFFIX,odnoklassniki.ru,REJECT
+DOMAIN-SUFFIX,mycdn.me,REJECT
+DOMAIN-SUFFIX,tamtam.chat,REJECT
