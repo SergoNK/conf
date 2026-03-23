@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,nuc-cdp.digital.gov.ru,REJECT
 DOMAIN-SUFFIX,nuc-cdp.voskhod.ru,REJECT
 DOMAIN-SUFFIX,ipv4-internet.yandex.net,REJECT
 DOMAIN-SUFFIX,ipv6-internet.yandex.net,REJECT
-DOMAIN-SUFFIX,oneme.ru,REJECT
 
 Блокировка сервисов определения IP (используются MAX)
 DOMAIN-SUFFIX,ipify.org,REJECT
